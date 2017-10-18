@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - SwiftMessages (4.0.0)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.3)
+  - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  SwiftMessages: cd565e0e7d095584be1770c012c6b5be4183b5ee
+
+PODFILE CHECKSUM: f9b1da8bbd14c998e1dbb120c73ff96b47827779
+
+COCOAPODS: 1.3.1
